@@ -1,0 +1,6 @@
+keras~=2.8.0
+numpy~=1.22.3
+scipy~=1.6.2
+tqdm~=4.62.2
+matplotlib~=3.5.2
+tensorflow~=2.8.0
